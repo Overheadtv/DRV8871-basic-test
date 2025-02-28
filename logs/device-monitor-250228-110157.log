@@ -1,0 +1,10 @@
+11:01:57.513 > ESP-ROM:esp32s3-20210327
+11:01:57.521 > Build:Mar 27 2021
+11:01:57.521 > rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+11:01:57.526 > SPIWP:0xee
+11:01:57.526 > mode:DIO, clock div:1
+11:01:57.526 > load:0x3fce3808,len:0x4bc
+11:01:57.531 > load:0x403c9700,len:0xbd8
+11:01:57.531 > load:0x403cc700,len:0x2a0c
+11:01:57.531 > entry 0x403c98d0
+11:01:57.600 > E (87) psram: PSRAM ID read error: 0x00ffffff, PSRAM chip not found or not supported, or wrong PSRAM line mode

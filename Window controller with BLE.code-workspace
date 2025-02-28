@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "Window controller with BLE",
+			"path": "."
+		}
+	],
+	"python.analysis.extraPaths": [
+        "C:/Users/Dennis/.platformio/packages/tool-scons/scons-local-4.7.0/SCons"
+		
+    ],
+    "python.linting.pylintArgs": [
+        "--init-hook",
+        "import sys; sys.path.append('C:/Users/Dennis/.platformio/packages/tool-scons/scons-local-4.7.0/SCons')"
+    ],
+	"settings": {
+		"cSpell.words": [
+			"EPROM",
+			"Poverride",
+			"Pside",
+			"Watchdogdelay"
+		],
+		"bookmarks.saveBookmarksInProject": true
+	}
+}
