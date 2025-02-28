@@ -31,7 +31,7 @@ void setup() {
     pinMode(PASSENGER_LOCK_SWITCH, INPUT_PULLUP);
     doorLock.driverLockMotorReverse = false;
     doorLock.passengerLockMotorReverse = true;
-    doorLock.lockMotorTime(DRIVER, 1000);
+    doorLock.lockMotorTime(DRIVER, 2000);
     doorLock.lockMotorTime(PASSENGER, 300);
 }
 
